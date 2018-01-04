@@ -48,7 +48,7 @@
             userGs = " ";
           }
           var html =
-           "<h1>Psycic Game</h1>" +
+           "<h1>Psychic Game</h1>" +
            "<p>Guess what letter I'm thinking of</p>" +
             // "<p>You chose: " + userGuess + "</p>" +
             // "<p>The computer c"hose: " + computerGuess + "</p>" +
